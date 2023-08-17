@@ -1,0 +1,7 @@
+{
+    "auth": "offpath:proxypass",
+    "proxies" : [
+        "127.0.0.1:8080",
+        "user:password:127.0.0.1:8080"
+    ]
+}
